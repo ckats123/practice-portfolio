@@ -82,9 +82,9 @@ const Navbar = () => {
           href="/"
           className="text-sm bg-black rounded-md p-1 font-semibold flex items-center justify-center"
         >
-          <span className="text-white mr-1">Lama</span>
+          <span className="text-white mr-1">Sophia</span>
           <span className="w-12 h-8 rounded bg-white text-black flex items-center justify-center">
-            .dev
+            K
           </span>
         </Link>
       </div>
@@ -93,7 +93,7 @@ const Navbar = () => {
         <Link href="/">
           <Image src="/github.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        {/* <Link href="/">
           <Image src="/dribbble.png" alt="" width={24} height={24} />
         </Link>
         <Link href="/">
@@ -104,7 +104,7 @@ const Navbar = () => {
         </Link>
         <Link href="/">
           <Image src="/pinterest.png" alt="" width={24} height={24} />
-        </Link>
+        </Link> */}
         <Link href="/">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
         </Link>
