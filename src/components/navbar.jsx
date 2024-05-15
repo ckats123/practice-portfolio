@@ -98,7 +98,7 @@ const Navbar = () => {
         </Link>
         <Link href="/">
           <Image
-            src="/email-icon copy.png"
+            src="/email-icon.png"
             alt=""
             width={24}
             height={24}
